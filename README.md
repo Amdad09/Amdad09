@@ -1,5 +1,8 @@
+![Masterhead Banner](https://i.ibb.co.com/XkrfNQHj/ilya-pavlov-Oqtaf-YT5k-Tw-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Amdadul Haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<img align="right" width="400"  src=''https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif'' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdad09&label=Profile%20views&color=0e75b6&style=flat" alt="amdad09" /> </p>
 
@@ -25,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdad09&show_icons=true&locale=en&layout=compact" alt="amdad09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdad09&show_icons=true&locale=en" alt="amdad09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdad09&show_icons=true&locale=en" alt="amdad09" /></p>    
