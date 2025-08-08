@@ -3,6 +3,11 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Amdadul Haque</h1>
+<!-- <h3 align="center" style="color:#1e40af;">A passionate frontend developer from Bangladesh</h3> -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Amdadul Haque Animated" width="300" />
+</h1>
 <h3 align="center" style="color:#1e40af;">A passionate frontend developer from Bangladesh</h3>
 
 <br>
@@ -45,7 +50,7 @@
 - 📫 Reach me at **[amdadulHaque601671@gmail.com](mailto:amdadulHaque601671@gmail.com)**  
 - ⚡ Fun fact: I once debugged a CSS issue at 3 AM while listening to 90s Bollywood music!  
 
-<br>
+<br><br>
 
 <!-- Languages and Tools Icons -->
 <h3 align="center" style="color:#1e40af;">Languages and Tools</h3>
