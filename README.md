@@ -1,29 +1,15 @@
 <!-- Banner GIF -->
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Frontend Development Animation" width="100%" height="300px" />
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Frontend Development Animation" width="100%" height="340px" />
 
 <!-- Intro -->
-<h1 align="center">Hi 👋, I'm Amdadul Haque</h1>
-<h3 align="center" style="color:#1e40af;">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center" style="color:#1e40af; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Hi 👋, I'm Amdadul Haque
+</h1>
+<h3 align="center" style="color:#2563eb;">
+  A passionate frontend developer from Bangladesh
+</h3>
 
-<div style="text-align: center;">
-  <h1 style="font-size: 2.5em; color: #d946ef;">
-    Hi <span style="display: inline-block; transition: transform 0.3s ease;">👋</span>, I'm Amdadul Haque
-  </h1>
-  <h3 style="font-size: 1.5em; color: #22d3ee; transition: color 0.5s ease;">
-    A passionate frontend developer from Bangladesh
-  </h3>
-</div>
 
-<style>
-h1 span:hover {
-  transform: scale(1.3);
-}
-h3:hover {
-  color: #facc15;
-}
-</style>
-
-<br>
 
 <!-- Tech Badges -->
 <p align="center">
