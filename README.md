@@ -3,12 +3,25 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Amdadul Haque</h1>
-<!-- <h3 align="center" style="color:#1e40af;">A passionate frontend developer from Bangladesh</h3> -->
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Amdadul Haque Animated" width="300" />
-</h1>
 <h3 align="center" style="color:#1e40af;">A passionate frontend developer from Bangladesh</h3>
+
+<div style="text-align: center;">
+  <h1 style="font-size: 2.5em; color: #d946ef;">
+    Hi <span style="display: inline-block; transition: transform 0.3s ease;">👋</span>, I'm Amdadul Haque
+  </h1>
+  <h3 style="font-size: 1.5em; color: #22d3ee; transition: color 0.5s ease;">
+    A passionate frontend developer from Bangladesh
+  </h3>
+</div>
+
+<style>
+h1 span:hover {
+  transform: scale(1.3);
+}
+h3:hover {
+  color: #facc15;
+}
+</style>
 
 <br>
 
