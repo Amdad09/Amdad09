@@ -1,10 +1,12 @@
 ![Masterhead Banner](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Amdadul Haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmahi13singh2004&psig=AOvVaw0Xwcs-ngppTEH3ySXyVWRf&ust=1754733227685000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC1nuf4-o4DFQAAAAAdAAAAABAE" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdad09&label=Profile%20views&color=0e75b6&style=flat" alt="amdad09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amdad09" alt="amdad09" /></a> </p>
+
+<img align="right" width="400" src="https://i.ibb.co.com/k2YBXNQH/animate.gif" >
 
 - 🔭 I’m currently working on [virtual bookshelf](https://virtual-bookshelf-f0867.web.app)
 
