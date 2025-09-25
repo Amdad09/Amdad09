@@ -1,0 +1,14 @@
+name: WakaTime Readme
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # প্রতি ঘন্টায় update হবে
+  workflow_dispatch:       # ম্যানুয়ালি রান করতে পারবে
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
