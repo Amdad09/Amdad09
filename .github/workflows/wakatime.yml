@@ -2,8 +2,8 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 * * * *"   # প্রতি ঘন্টায় update হবে
-  workflow_dispatch:       # ম্যানুয়ালি রান করতে পারবে
+    - cron: "0 * * * *"   
+  workflow_dispatch:     
 
 jobs:
   update-readme:
