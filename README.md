@@ -109,14 +109,13 @@
 </p>
 <br>
 
-# 📊 Coding Stats
-
+<h3 align="center" style="color:#1e40af;">📊 Coding Stats</h3>
 ### ⏳ Weekly Coding Time
 <!--START_SECTION:waka-week-->
 <!--END_SECTION:waka-week-->
 
 ---
-
+<br>
 ### 🏆 All Time Coding Time
 <!--START_SECTION:waka-all-->
 <!--END_SECTION:waka-all-->
