@@ -109,6 +109,19 @@
 </p>
 <br>
 
+# 📊 Coding Stats
+
+### ⏳ Weekly Coding Time
+<!--START_SECTION:waka-week-->
+<!--END_SECTION:waka-week-->
+
+---
+
+### 🏆 All Time Coding Time
+<!--START_SECTION:waka-all-->
+<!--END_SECTION:waka-all-->
+
+
 <!--START_SECTION:waka-->
 
 ```txt
