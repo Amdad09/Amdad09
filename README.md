@@ -110,13 +110,13 @@
 <br>
 
 <h3 align="center" style="color:#1e40af;">📊 Coding Stats</h3>
-### ⏳ Weekly Coding Time
+⏳ Weekly Development Breakdown
 <!--START_SECTION:waka-week-->
 <!--END_SECTION:waka-week-->
 
 ---
 <br>
-### 🏆 All Time Coding Time
+🏆 All Time Development Breakdown
 <!--START_SECTION:waka-all-->
 <!--END_SECTION:waka-all-->
 
@@ -133,7 +133,7 @@ Python   5 hrs 43 mins   ██████████████████�
 <br>
 
 <!-- GitHub Stats -->
-<h1 align="center" style="color:#1e40af;">My Stats:</h1>
+<h3 align="center" style="color:#1e40af;">My Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amdad09&show_icons=true&locale=en&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amdad09&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="Top Languages" />
