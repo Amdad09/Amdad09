@@ -2,8 +2,8 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 * * * *"   
-  workflow_dispatch:      
+    - cron: "0 0 * * 0" # Weekly update every Sunday at 00:00 UTC
+  workflow_dispatch: # Manual run option
 
 permissions:
   contents: write
@@ -12,14 +12,26 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - name: Update Weekly Coding Stats
+        uses: athul/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: "last_7_days"
           SECTION_NAME: "waka-week"
 
-      - uses: athul/waka-readme@master
+      - name: Update All-Time Coding Stats
+        uses: athul/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: "all_time"
           SECTION_NAME: "waka-all"
+
+      - name: Commit & Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update WakaTime coding stats" || echo "No changes to commit"
+          git push
