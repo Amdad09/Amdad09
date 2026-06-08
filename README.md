@@ -63,8 +63,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Solution:** Built reusable React components with Context API state management  
 **Result:** Improved user experience with 40% faster interaction flow and smooth state transitions
 
-**Tech:** React · Tailwind CSS · Context API · REST API  
-**[View Project](# target="_blank") · [Repository](# target="_blank")**
+**Tech:** React · Tailwind CSS · Context API · REST API
 
 ---
 
@@ -73,8 +72,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Solution:** Firebase auth + real-time database with protected routes  
 **Result:** Seamless book management with persistent user sessions and 100% data sync reliability
 
-**Tech:** React · Firebase Auth · Firestore · Tailwind CSS  
-**[View Project](# target="_blank") · [Repository](# target="_blank")**
+**Tech:** React · Firebase Auth · Firestore · Tailwind CSS
 
 ---
 
@@ -83,8 +81,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Solution:** Component library approach with modular cart system  
 **Result:** Clean, responsive UI with optimized rendering and smooth interactions across all devices
 
-**Tech:** React · Tailwind CSS · Component Architecture  
-**[View Project](# target="_blank") · [Repository](# target="_blank")**
+**Tech:** React · Tailwind CSS · Component Architecture
 
 ---
 
@@ -92,11 +89,11 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)](https://github.com/Amdad09 target="_blank")
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)](https://github.com/Amdad09)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)](https://git.io/streak-stats target="_blank")
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Amdad09 target="_blank")
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Amdad09)
 
 </div>
 
@@ -118,11 +115,11 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 **Let's connect and collaborate!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile target="_blank")
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile target="_blank")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amdadul_09 target="_blank")
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com target="_blank")
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.youtube.com/@amdadul_09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
