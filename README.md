@@ -17,12 +17,15 @@
   </p>
 </div>
 
-**Quick Navigation:**
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-statistics)
-- [Contact](#-get-in-touch)
+<div align="center">
+
+### 📍 Quick Navigation
+
+| 👤 **About** | 🛠️ **Tech Stack** | 💼 **Projects** | 📊 **Stats** | 📞 **Contact** |
+|:---:|:---:|:---:|:---:|:---:|
+| [View](#-about-me) | [View](#-tech-stack) | [View](#-featured-projects) | [View](#-github-statistics) | [View](#-get-in-touch) |
+
+</div>
 
 ---
 
