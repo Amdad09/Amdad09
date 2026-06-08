@@ -92,11 +92,14 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)](https://github.com/Amdad09)
+### 📈 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF7E18&stroke=79C0FF)](https://git.io/streak-stats)
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Amdad09)
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
 </div>
 
