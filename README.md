@@ -92,16 +92,30 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 <div align="center">
 
-### 📈 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)
+<img src="https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF" alt="GitHub Stats" style="animation: fadeIn 0.8s ease-in; border-radius: 10px;">
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)
+<br/><br/>
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E" alt="GitHub Streak" style="animation: fadeIn 0.8s ease-in 0.2s both; border-radius: 10px;">
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" style="animation: fadeIn 0.8s ease-in 0.4s both; border-radius: 10px;">
 
 </div>
+
+<style>
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
 
 ---
 
@@ -121,11 +135,11 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 **Let's connect and collaborate!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amdadul_09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile target="_blank")
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile target="_blank")
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amdadul_09 target="_blank")
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com target="_blank")
 
 </div>
 
