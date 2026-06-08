@@ -64,7 +64,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Result:** Improved user experience with 40% faster interaction flow and smooth state transitions
 
 **Tech:** React · Tailwind CSS · Context API · REST API  
-**[View Project](#) · [Repository](#)**
+**[View Project](# target="_blank") · [Repository](# target="_blank")**
 
 ---
 
@@ -74,7 +74,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Result:** Seamless book management with persistent user sessions and 100% data sync reliability
 
 **Tech:** React · Firebase Auth · Firestore · Tailwind CSS  
-**[View Project](#) · [Repository](#)**
+**[View Project](# target="_blank") · [Repository](# target="_blank")**
 
 ---
 
@@ -84,7 +84,7 @@ I build real-world responsive web apps with **clean architecture** and **perform
 **Result:** Clean, responsive UI with optimized rendering and smooth interactions across all devices
 
 **Tech:** React · Tailwind CSS · Component Architecture  
-**[View Project](#) · [Repository](#)**
+**[View Project](# target="_blank") · [Repository](# target="_blank")**
 
 ---
 
@@ -92,30 +92,13 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF" alt="GitHub Stats" style="animation: fadeIn 0.8s ease-in; border-radius: 10px;">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)](https://github.com/Amdad09 target="_blank")
 
-<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)](https://git.io/streak-stats target="_blank")
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E" alt="GitHub Streak" style="animation: fadeIn 0.8s ease-in 0.2s both; border-radius: 10px;">
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" style="animation: fadeIn 0.8s ease-in 0.4s both; border-radius: 10px;">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Amdad09 target="_blank")
 
 </div>
-
-<style>
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
 
 ---
 
