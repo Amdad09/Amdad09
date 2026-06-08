@@ -2,22 +2,33 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amdadul+Haque;Frontend+Developer;React+|+JavaScript+|+Tailwind+CSS;Building+Modern+Web+Applications" alt="Typing SVG" /></a>
 </div>
 
+---
+
+## 🎯 Welcome to My GitHub Profile!
+
 <div align="center">
-  <p><strong>Passionate Frontend Developer | Building Scalable & Responsive Web Apps</strong></p>
   <p>
-    <a href="#-about-me">About</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-featured-projects">Projects</a> •
-    <a href="#-github-statistics">Stats</a> •
-    <a href="#-get-in-touch">Contact</a>
+    <strong>Passionate Frontend Developer | React Enthusiast | Web Application Builder</strong>
+  </p>
+  <p>
+    I create clean, responsive, and scalable web applications using modern JavaScript frameworks.
+    <br/>
+    Always learning, always building, always improving.
   </p>
 </div>
+
+**Quick Navigation:**
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-statistics)
+- [Contact](#-get-in-touch)
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated **Frontend Developer** with a passion for creating clean, responsive, and user-centric web applications. I specialize in modern JavaScript frameworks and focus on writing maintainable, scalable code.
+I'm a dedicated **Frontend Developer** with a passion for creating clean, responsive, and user-centric web applications. I specialize in modern JavaScript frameworks and focus on writing maintainable, scalable code that makes a real impact.
 
 - 💻 **Expertise:** React.js, JavaScript (ES6+), Tailwind CSS, Firebase
 - 🎨 **Focus Areas:** Component-driven development, UI/UX best practices, performance optimization
@@ -170,19 +181,6 @@ I'm a dedicated **Frontend Developer** with a passion for creating clean, respon
 
 ---
 
-## 📞 Get In Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
 ## 💬 Quick Insights
 
 <div align="center">
@@ -193,6 +191,21 @@ I'm a dedicated **Frontend Developer** with a passion for creating clean, respon
 - 🚀 Performance and user experience are my top priorities
 - 🌱 Continuous learning is my philosophy
 - 🤖 I love automating repetitive tasks
+
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+
+**Let's connect and collaborate! Reach out to me on:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
