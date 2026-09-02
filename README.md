@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Amdadul Haque GitHub Banner"
+    width="100%"
+  />
+</p>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amdadul+Haque;Frontend+Developer;React+|+JavaScript+|+Tailwind+CSS;Building+Real+Products" alt="Typing SVG" /></a>
 </div>
