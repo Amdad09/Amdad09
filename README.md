@@ -27,17 +27,19 @@
 
 ## 🚀 About Me
 
-Frontend Developer focused on **React & modern UI systems**.  
-I build real-world responsive web apps with **clean architecture** and **performance** in mind.
+Frontend Developer focused on **React & modern web technologies**.
 
-🚀 *I enjoy turning ideas into real usable products that solve real problems.*
+I build real-world, responsive web applications with **clean architecture, maintainability, and performance** in mind.
+
+🚀 *I enjoy turning ideas into real, usable products that solve real problems.*
 
 💡 *I focus on building UI systems that feel like real products, not just practice projects.*
 
-- 💻 **Tech:** React.js, JavaScript (ES6+), Tailwind CSS, Firebase
-- 🎨 **Approach:** Component-driven, performance-first, user-focused
-- ⚡ **Currently:** Building production-grade apps & improving advanced React patterns
-- 🎯 **Goal:** Full Stack Developer & open-source contributor
+- 💻 **Tech:** Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Firebase, Node.js, Express.js, MongoDB
+- 🎨 **Approach:** Component-driven, performance-focused, user-centered
+- ⚡ **Currently:** Building real-world applications & strengthening advanced React patterns
+- 🎯 **Goal:** Become a strong **Software Engineer**, grow into **Full-Stack Development**, and contribute to **open-source projects**
+
 
 ---
 
@@ -46,11 +48,16 @@ I build real-world responsive web apps with **clean architecture** and **perform
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
 
 ### Tools & Services
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -110,9 +117,9 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 | Status | Skills |
 |--------|--------|
-| ✅ Strong | React Hooks, Tailwind CSS, Responsive Design, Git & GitHub |
+| ✅ Strong | HTML5, CSS3, JavaScript (ES6+), React, React Hooks, Tailwind CSS, Responsive Design, Git & GitHub |
 | 🔄 Improving | TypeScript, Advanced React Patterns, REST APIs |
-| 📚 Next | Node.js, Express, MongoDB, Full Stack Development |
+| 📚 Next | Node.js, Express.js, MongoDB, Full-Stack Development |
 
 ---
 
@@ -122,10 +129,10 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 **Let's connect and collaborate!**
 
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://x.com/Amdad09_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/Amdad09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com/@amdadul_09" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:amdadulhaque601671@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 
 </div>
@@ -138,6 +145,15 @@ I build real-world responsive web apps with **clean architecture** and **perform
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amdad09&color=58A6FF&style=for-the-badge)
 
-![Wave](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg)
+---
 
+<p align="center">
+  <b>Frontend Developer → Full-Stack Developer → Software Engineer</b>
+</p>
+
+<p align="center">
+  <i> >_ “Building Today, Scaling Tomorrow.”</i>
+</p>
+
+---
 </div>
