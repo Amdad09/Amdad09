@@ -15,8 +15,8 @@
 
 <div align="center">
 
-## 🎯 Building Toward Software Engineering | Web Development | Scalable Systems
----
+<h2>🎯 Building Toward Software Engineering | Web Development | Scalable Systems </h2> <br>
+
 ### 📍 Quick Navigation
 
 | 👤 **About** | 🛠️ **Tech** | 💼 **Projects** | 📊 **Stats** | 📞 **Contact** |
