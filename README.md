@@ -17,6 +17,7 @@
 
 ## 🎯 Building Toward Software Engineering | Web Development | Scalable Systems
 
+
 ### 📍 Quick Navigation
 
 | 👤 **About** | 🛠️ **Tech** | 💼 **Projects** | 📊 **Stats** | 📞 **Contact** |
@@ -156,12 +157,6 @@ Created a dedicated platform that makes it easier for users to explore and manag
 
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-phi-three-75.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight"
-    alt="Amdad09's GitHub Stats"
-  />
-</p>
 
 ![Amdad09's GitHub Stats](https://github-readme-stats-phi-three-75.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight)
 
