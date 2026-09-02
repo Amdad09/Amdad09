@@ -6,14 +6,16 @@
   />
 </p>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amdadul+Haque;Frontend+Developer;React+|+JavaScript+|+Tailwind+CSS;Building+Real+Products" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Amdadul+Haque;Frontend+Developer+%7C+React+%26+JavaScript;Building+Real-World+Web+Applications;Growing+Toward+Full-Stack+Engineering;Aspiring+Software+Engineer;Building+Today%2C+Scaling+Tomorrow." alt="Typing SVG" />
+</a>
 </div>
 
 ---
 
 <div align="center">
 
-## 🎯 Focused on Frontend Engineering | UI Systems | React Architecture
+## 🎯 Building Toward Software Engineering | Web Development | Scalable Systems
 
 ### 📍 Quick Navigation
 
@@ -35,7 +37,7 @@ I build real-world, responsive web applications with **clean architecture, maint
 
 💡 *I focus on building UI systems that feel like real products, not just practice projects.*
 
-- 💻 **Tech:** Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Firebase, Node.js, Express.js, MongoDB
+- 💻 **Tech:** Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Firebase
 - 🎨 **Approach:** Component-driven, performance-focused, user-centered
 - ⚡ **Currently:** Building real-world applications & strengthening advanced React patterns
 - 🎯 **Goal:** Become a strong **Software Engineer**, grow into **Full-Stack Development**, and contribute to **open-source projects**
@@ -55,6 +57,9 @@ I build real-world, responsive web applications with **clean architecture, maint
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
@@ -70,32 +75,70 @@ I build real-world, responsive web applications with **clean architecture, maint
 
 ---
 
+
 ## 💼 Featured Projects
 
-### 🎬 Movie App
-**Problem:** Need a smooth movie browsing experience with cart functionality  
-**Solution:** Built reusable React components with Context API state management  
-**Result:** Improved user experience with 40% faster interaction flow and smooth state transitions
+### 🛒 TazaBazar 360 — Daily Price Tracker
 
-**Tech:** React · Tailwind CSS · Context API · REST API
+A full-stack web application designed to help users track and manage daily product prices through a responsive and user-friendly interface.
+
+**Problem:**
+Tracking daily product prices and keeping price information organized can be difficult for users.
+
+**Solution:**
+Built a full-stack price tracking platform with a React frontend, REST APIs, and a backend system for managing product and price data.
+
+**Result:**
+Created a structured platform that makes product price information easier to view, manage, and track.
+
+**Tech Stack:**
+`React` · `JavaScript` · `Tailwind CSS` · `REST API` · `Node.js` · `Express.js` · `MongoDB`
+
+**Links:**
+[🌐 Live Demo](https://tazabazara-360.web.app/) · [💻 Client](https://github.com/Amdad09/tazabazar-client) · [⚙️ Server](https://github.com/Amdad09/tazabazar-server)
 
 ---
 
-### 📚 Virtual Book Shelf
-**Problem:** Track reading progress without manual spreadsheets  
-**Solution:** Firebase auth + real-time database with protected routes  
-**Result:** Seamless book management with persistent user sessions and 100% data sync reliability
+### 📚 Virtual Bookshelf
 
-**Tech:** React · Firebase Auth · Firestore · Tailwind CSS
+A full-stack book management application that allows users to organize and manage their personal book collection.
+
+**Problem:**
+Managing and organizing a growing personal book collection can become difficult without a dedicated system.
+
+**Solution:**
+Built a web-based bookshelf application with Firebase Authentication, Firestore, protected routes, and reusable React components.
+
+**Result:**
+Created a personalized platform where users can securely manage and organize their book collections.
+
+**Tech Stack:**
+`React` · `JavaScript` · `Firebase Authentication` · `Firestore` · `Tailwind CSS`
+
+**Links:**
+[🌐 Live Demo](https://virtual-bookshelf-f0867.web.app/) · [💻 Client](https://github.com/Amdad09/virtual-book-client-) · [⚙️ Server](https://github.com/Amdad09/virtual-book-server)
 
 ---
 
-### 🛒 E-commerce UI
-**Problem:** Design a conversion-focused shopping interface  
-**Solution:** Component library approach with modular cart system  
-**Result:** Clean, responsive UI with optimized rendering and smooth interactions across all devices
+### 🏠 Roommate Finder
 
-**Tech:** React · Tailwind CSS · Component Architecture
+A full-stack platform designed to help users discover and connect with suitable roommates based on their preferences.
+
+**Problem:**
+Finding suitable roommates based on location, preferences, and other requirements can be challenging.
+
+**Solution:**
+Built a responsive full-stack platform with React, REST APIs, and backend data management to organize and display roommate information.
+
+**Result:**
+Created a dedicated platform that makes it easier for users to explore and manage roommate-related information.
+
+**Tech Stack:**
+`React` · `JavaScript` · `Tailwind CSS` · `REST API` · `Node.js` · `Express.js` · `MongoDB`
+
+**Links:**
+[🌐 Live Demo](https://roommate-finder-651b2.web.app/) · [💻 Client](https://github.com/Amdad09/roommate-finder-client) · [⚙️ Server](https://github.com/Amdad09/roommate-finder-server)
+
 
 ---
 
@@ -103,11 +146,16 @@ I build real-world, responsive web applications with **clean architecture, maint
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)](https://github.com/Amdad09)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF)](https://github.com/Amdad09) -->
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Amdad09)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdad09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/Amdad09) -->
 
 </div>
 
@@ -118,7 +166,7 @@ I build real-world, responsive web applications with **clean architecture, maint
 | Status | Skills |
 |--------|--------|
 | ✅ Strong | HTML5, CSS3, JavaScript (ES6+), React, React Hooks, Tailwind CSS, Responsive Design, Git & GitHub |
-| 🔄 Improving | TypeScript, Advanced React Patterns, REST APIs |
+| 🔄 Improving | TypeScript, Next.js, Advanced React Patterns, REST APIs |
 | 📚 Next | Node.js, Express.js, MongoDB, Full-Stack Development |
 
 ---
@@ -152,7 +200,7 @@ I build real-world, responsive web applications with **clean architecture, maint
 </p>
 
 <p align="center">
-  <i> >_ “Building Today, Scaling Tomorrow.”</i>
+  <code>&gt;_</code> <i>“Building Today, Scaling Tomorrow.”</i>
 </p>
 
 ---
