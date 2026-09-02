@@ -142,6 +142,16 @@ Created a dedicated platform that makes it easier for users to explore and manag
 
 ---
 
+## 🧩 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/amdad09/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+ 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
