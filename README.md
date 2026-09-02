@@ -161,7 +161,7 @@ Created a dedicated platform that makes it easier for users to explore and manag
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amdad09&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FB8500&currStreakNum=79C0FF&sideNums=8B949E&currStreakLabel=58A6FF&strokeColor=30363D&dates=8B949E)](https://git.io/streak-stats)
 
-![Amdad09's Top Languages](https://github-readme-stats-phi-three-75.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight)
+![Amdad09's Top Languages](https://github-readme-stats-phi-three-75.vercel.app/api/top-langs?username=Amdad09&show_icons=true&theme=tokyonight)
 
 
 </div>
