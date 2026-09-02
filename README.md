@@ -156,9 +156,11 @@ Created a dedicated platform that makes it easier for users to explore and manag
 
 <div align="center">
 
+
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-phi-three-75.vercel.app/api?username=Amdad09&show_icons=true&theme=tokyonight"
     alt="Amdad09's GitHub Stats"
   />
 </p>
